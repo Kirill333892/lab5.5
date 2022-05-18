@@ -1,0 +1,36 @@
+[
+  {
+    "name": "test1",
+    "coordinates": {
+      "x": "200",
+      "y": "100"
+    },
+    "creationDate": "2015-08-25 13:21:05",
+    "area": "100.0",
+    "population": "1",
+    "metersAboveSeaLevel": "1",
+    "populationDensity": "12",
+    "carCode": "1",
+    "standardOfLiving": "HIGH",
+    "governor": {
+      "height": "184.12"
+    }
+  },
+  {
+    "name": "test2",
+    "coordinates": {
+      "x": "200",
+      "y": "100"
+    },
+    "creationDate": "2015-08-25 13:21:05",
+    "area": "100.0",
+    "population": "1",
+    "metersAboveSeaLevel": "1",
+    "populationDensity": "12",
+    "carCode": "1",
+    "standardOfLiving": "HIGH",
+    "governor": {
+      "height": "184.12"
+    }
+  }
+]
